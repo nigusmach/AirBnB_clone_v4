@@ -157,7 +157,7 @@ No known bugs at this time.
 Make an API for the AirBnB
 
 ## Authors
-* Ephrem Getachew - [Github](https://github.com/Ephrem2166)
+* Nigus Amare --
 * Negasi Abebe Chekole - [Github](negasiabebe@gmail.com) 
 
 
